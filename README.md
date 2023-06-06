@@ -7,3 +7,9 @@ I note all of my simple conda command in this repo. Make this simple for underst
 conda create --name envname 
 
 ```
+
+## Activate Environment 
+
+```bash
+conda activate envname
+```
