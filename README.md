@@ -25,5 +25,12 @@ conda deactivate
 ```bash
 conda env remove --name <environment_name>
 ```
-    
+
+## To Create environment other drive 
+Just use prefix than path where you wanna create environment
+```bash
+conda create --prefix "D:\envname"
+conda activate "D:\envname"
+
+```
     
