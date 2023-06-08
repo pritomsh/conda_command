@@ -1,5 +1,5 @@
 # Conda Command
-I note all of my simple conda command in this repo. Make this simple for understand beginner user.
+I note all of my simple conda command in this repo. Make this simple for understand beginner user. This basic command help you for change enviroment, how to  use it 
 
 ## Create Conda Environment 
 ```bash
@@ -33,4 +33,4 @@ conda create --prefix "D:\envname"
 conda activate "D:\envname"
 
 ```
-    
+
